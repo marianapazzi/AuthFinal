@@ -8,6 +8,7 @@ function App() {
 
   return ( //hi
     <p>hola</p>
+    <h1>paperplane</h1>
   )
 }
 
